@@ -14,7 +14,10 @@ public class GitOct {
 		System.out.println();
 	}
 	private void tc2() {
-		
+		System.out.println("tc2");
+	}
+	private void tc3() {
+		System.out.println("tc3");
 
 	}
 	

@@ -10,10 +10,15 @@ public class GitOct {
 		System.out.println("studentName:b");
 
 	}
+	private void tc1() {
+		System.out.println();
+	}
+	
 	public static void main(String[] args) {
 		GitOct s=new GitOct();
 		s.collegeName();
 		s.studentName();
+		s.tc1();
 		
 	}
 	

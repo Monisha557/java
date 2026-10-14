@@ -6,8 +6,19 @@ public class GitOct {
 		System.out.println("collegeName:a");
 
 	}
+	private void studentName() {
+		System.out.println("studentName:b");
+
+	}
+	private void tc1() {
+		System.out.println();
+	}
+	
 	public static void main(String[] args) {
 		GitOct s=new GitOct();
+		s.collegeName();
+		s.studentName();
+		s.tc1();
 		
 	}
 	

@@ -13,6 +13,10 @@ public class GitOct {
 	private void tc1() {
 		System.out.println();
 	}
+	private void tc2() {
+		
+
+	}
 	
 	public static void main(String[] args) {
 		GitOct s=new GitOct();
